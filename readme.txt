@@ -6,4 +6,6 @@ Git tracks changes.
 touch readme.txt
 vim readme.txt
 
+Using git push origin master to push branch to github. It is a distributed repo.
+
 

@@ -9,7 +9,7 @@ vim readme.txt
 Using git push origin master to push branch to github. It is a distributed repo
 
 <<<<<<< HEAD
-Creating a new branch is quick and simple.
+Creating a new branch is quick AND simple.
 
 
 =======
